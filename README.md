@@ -18,8 +18,8 @@ aims I had last time:
 
 | Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Stars | :star2: | :star2: | :star2: |  |  |  |  |  |  |  |  |  |
-| Time | 35 | 29 | 32 |  |  |  |  |  |  |  |  |  |
+| Stars | :star2: | :star2: | :star2: | :star2: |  |  |  |  |  |  |  |  |
+| Time | 35 | 29 | 32 | 129 |  |  |  |  |  |  |  |  |
 
 :star: means just the first star, :star2: means both stars, and :custard: (just
 because "custard" showed up while searching for emojis with "star" in the name)
@@ -35,4 +35,6 @@ While completing the challenges, I was trying to keep performance to a "good"
 level - not just sub-15s, but as optimal as I could manage, on my own. Notes on
 this are below:
 
-* tbc
+* Day 2: optimisation wasn't exactly necessary from the first solution, but it
+  was a lot of fun looking for a way to not have to inspect everything and
+  looking for shortcuts. Pleased with the eventual outcome and timing!
