@@ -18,8 +18,8 @@ aims I had last time:
 
 | Days | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |  |  |  |  |
-| Time | 35 | 29 | 32 | 129 | 38 | 39 | 26 | 9833 |  |  |  |  |
+| Stars | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: | :star2: |  |  |
+| Time | 35 | 29 | 32 | 129 | 38 | 39 | 26 | 9833 | 3271 | 2m 47s |  |  |
 
 :star: means just the first star, :star2: means both stars, and :custard: (just
 because "custard" showed up while searching for emojis with "star" in the name)
@@ -38,3 +38,7 @@ this are below:
 * Day 2: optimisation wasn't exactly necessary from the first solution, but it
   was a lot of fun looking for a way to not have to inspect everything and
   looking for shortcuts. Pleased with the eventual outcome and timing!
+* Day 10: without spoiling the approach (which you can just look at in the
+  code), I'm not sure where I'd go next to optimise this one. I suspect there's
+  a way to make better guesses, but also that there's probably a "proper"
+  algorithmic solution to this that I'm just not aware of.
