@@ -42,3 +42,7 @@ this are below:
   code), I'm not sure where I'd go next to optimise this one. I suspect there's
   a way to make better guesses, but also that there's probably a "proper"
   algorithmic solution to this that I'm just not aware of.
+* Day 11: thoroughly enjoyable puzzle that had just the right amount of
+  complexity without it seeming insurmountable, but at the same time left you
+  needing to come up with optimised solutions. I've no idea what the "correct"
+  way might be here, but I thought this solutions was elegant (and fast).
